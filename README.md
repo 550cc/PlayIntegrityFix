@@ -53,7 +53,7 @@ NOTE: Strong verdict is impossible to pass on unlocked bootloader devices, there
 https://xdaforums.com/t/pif-faq.4653307/
 
 ## Download
-https://github.com/chiteroman/PlayIntegrityFix/releases/latest
+https://github.com/chiteroman/PlayIntegrtyFix/releases/latest
 
 ## Donations
 [PayPal](https://www.paypal.com/paypalme/chiteroman0)
